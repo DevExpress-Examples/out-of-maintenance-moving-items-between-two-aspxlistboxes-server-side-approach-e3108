@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Moving items between two ASPxListBoxes (server-side approach)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3108/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to move items from the first ASPxListBox to the second ASPxListBox on the server.</p><p><strong>See</strong><strong> Also:</strong><strong> </strong><strong><br />
