@@ -1,5 +1,5 @@
 ﻿using System;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 public partial class _Default : System.Web.UI.Page {
     protected void bntMoveOne_Click(object sender, EventArgs e) {
         if (lbOptions.SelectedItems.Count > 0)
